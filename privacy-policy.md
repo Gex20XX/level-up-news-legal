@@ -113,4 +113,4 @@ We reserve the right to modify these terms at any time.
 We may terminate or suspend your account for violating these terms.
 
 ### 10. Contact
-Questions? Contact us at [your-email@example.com]
+Questions? Contact us at  [Gex20XX@gmail.com]
