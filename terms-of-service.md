@@ -198,7 +198,7 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 ## 20. Contact Information
 
 If you have questions about these Terms, please contact us:
-- **Email:** [your-email@example.com]
+- **Email:** [Gex20XX@gmail.com]
 - **In-App:** Settings → Terms of Service
 
 ## 21. Acknowledgment
